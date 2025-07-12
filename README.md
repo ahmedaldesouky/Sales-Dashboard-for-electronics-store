@@ -44,16 +44,9 @@ Ideal for sales analysts, managers, or decision-makers who want a **quick, inter
 
 ## 🧑‍💻 Author
 
-Created by [Your Name]  
+Created by [Ahmed Eldesouky]  
 For educational and portfolio demonstration purposes.
 
----
-
-## 📷 Preview
-
-*(Optional: Add screenshot of your dashboard here using `![alt text](url)`)*
-
----
 
 ## 📄 License
 
